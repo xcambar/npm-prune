@@ -1,0 +1,16 @@
+{
+  "name": "bla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ember-one-way-controls": "github:xcambar/ember-one-way-controls#c06c5cbf92f0059bce449f14f265d6281a0599dd",
+    "lodash": "github:lodash/lodash#d985dbffb89e5fa13505ed93449b9fec1fbf973b"
+  }
+}
